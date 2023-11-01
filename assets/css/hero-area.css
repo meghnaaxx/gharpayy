@@ -3,7 +3,8 @@
 ==============================================================================================*/
 .section-bg-image {
   height: 840px;
-  background: var(--primary-color);
+  background-color: rgb(49, 78, 240);
+  background: linear-gradient(18deg, rgb(16, 65, 242), rgb(22, 149, 233));
   position: absolute;
   width: 100%;
   z-index: -1;
