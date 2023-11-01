@@ -891,6 +891,14 @@ p {
   -webkit-text-fill-color: transparent; 
   -webkit-background-clip: text;
 }
+
+.section-head-title1{
+  font-size: 48px;
+  line-height: 140%;
+  margin: 0;
+  color: white;
+}
+
 .section-bottom-btn {
   text-align: center;
   margin-top: 50px;
