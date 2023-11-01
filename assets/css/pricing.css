@@ -2,7 +2,7 @@
 	Pricing Area
 ==============================================================================================*/
 .pricing-area {
-  background: #fff5df;
+  background: white;
   padding: 120px 0px;
   position: relative;
   z-index: 2;
@@ -32,7 +32,7 @@
   height: 100%;
 }
 .pricing-card {
-  background: #cde7e3;
+  background: #d9dad9;
   display: flex;
   align-items: center;
   box-shadow: 0px 25px 60px 0px rgba(0, 13, 48, 0.05);
@@ -83,7 +83,7 @@
 }
 .pricing-card-price p {
   color: #4d5461;
-  margin: ;
+  margin: 0;
   margin: 0;
 }
 .pricing-card-list-inner li {

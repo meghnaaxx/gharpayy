@@ -7,8 +7,8 @@
 
 /* Custom Variable CSS */
 :root {
-  --primary-color: #0b6755;
-  --secondary-color: #ffaf01;
+  --primary-color:linear-gradient(96deg,#004EC1 2.32%,#1E86FF 100.9%);
+  --secondary-color: #f1f1f1d6;
   --tertiary-color: #04091e;
   --white-color: #ffffff;
   --title-color: #04091e;
@@ -887,6 +887,9 @@ p {
   font-size: 48px;
   line-height: 140%;
   margin: 0;
+  background: linear-gradient(96deg,#004EC1 2.32%,#1E86FF 100.9%);        
+  -webkit-text-fill-color: transparent; 
+  -webkit-background-clip: text;
 }
 .section-bottom-btn {
   text-align: center;

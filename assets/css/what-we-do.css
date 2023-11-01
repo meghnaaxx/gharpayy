@@ -2,7 +2,7 @@
 	What We Do Area
 ==============================================================================================*/
 .what-we-do-area {
-  background: #dcf3e8;
+  background: #ffffff;
   padding: 95px 0px 135px;
   overflow: hidden;
   position: relative;
@@ -52,7 +52,7 @@
 }
 .s-highlight-card-content p {
   font-size: 16px;
-  font-weight: ;
+  font-weight:200; ;
   line-height: 160%;
   margin: 0;
 }
@@ -71,6 +71,9 @@
   margin-bottom: 16px;
 }
 .what-we-do-big-title {
+  background: linear-gradient(96deg,#004EC1 2.32%,#1E86FF 100.9%);        
+  -webkit-text-fill-color: transparent; 
+  -webkit-background-clip: text;
   font-size: 44px;
   margin-bottom: 40px;
 }

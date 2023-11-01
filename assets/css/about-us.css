@@ -93,17 +93,22 @@
   line-height: 60px;
   margin-bottom: 26px;
 }
+
+
 .about-content-title span {
   position: relative;
   display: inline-block;
   z-index: 2;
+  background: linear-gradient(96deg,#004EC1 2.32%,#1E86FF 100.9%);        
+  -webkit-text-fill-color: transparent; 
+  -webkit-background-clip: text;
 }
 .about-content-title span::before {
   position: absolute;
   content: "";
   width: 100%;
   height: 5px;
-  background: var(--secondary-color);
+  background: rgba(242, 215, 7, 0.724);
   bottom: 9px;
   left: 0;
   z-index: -1;
@@ -140,10 +145,14 @@
 }
 .about-content-btn {
   margin-top: 40px;
+  
 }
 .about-cont-btm-widget h5 {
   font-size: 28px;
   margin-bottom: 0;
+  background: linear-gradient(96deg,#004EC1 2.32%,#1E86FF 100.9%);        
+ -webkit-text-fill-color: transparent; 
+ -webkit-background-clip: text;
 }
 .about-cont-btm-widget p {
   color: #4d5461;
