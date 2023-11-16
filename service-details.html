@@ -843,7 +843,7 @@
       // Function to initialize the map
       function initMap() {
         // Specify the coordinates for the initial center of the map
-        var initialCoordinates = [12.79, 45.01]; // Replace with your desired coordinates
+        var initialCoordinates = [12.942981404294532, 77.62206586932992]; // Replace with your desired coordinates
             // Create the map with the specified center and zoom level
         var map = L.map("map").setView(initialCoordinates, 13);
     
@@ -853,7 +853,9 @@
         }).addTo(map);
     
         // Add a marker at the specified coordinates
-        L.marker(initialCoordinates).addTo(map);
+        L.marker(initialCoordinates).addTo(map)
+        .bindPopup('<a>https://maps.app.goo.gl/oLCSdNStjuSD3HnPA </a>')
+        .openPopup();
       }
     
       // Call the function to initialize the map when the page has finished loading
