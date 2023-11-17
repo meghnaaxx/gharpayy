@@ -827,7 +827,9 @@
         }).addTo(map);
 
         // Add a marker at the specified coordinates
-        L.marker(initialCoordinates).addTo(map);
+        L.marker(initialCoordinates).addTo(map)
+        .bindPopup('<a href="https://maps.app.goo.gl/oLCSdNStjuSD3HnPA">Go to maps</a>')
+        .openPopup();
       }
 
       // Call the function to initialize the map when the page has finished loading
