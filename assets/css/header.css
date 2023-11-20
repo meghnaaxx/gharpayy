@@ -4,7 +4,7 @@
 .header-area {
   padding: 20px 0px;
   border-bottom: 1px solid #ffffff30;
-  background: linear-gradient(96deg,#004EC1 2.32%,#1E86FF 100.9%);
+  background: white;
 }
 .header-area.is-sticky {
   position: fixed;
@@ -42,7 +42,6 @@
   margin: 0;
 }
 .header-menu-list li a {
-  color: var(--white-color);
   line-height: 160%;
   font-size: 16px;
 }
