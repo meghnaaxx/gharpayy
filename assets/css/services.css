@@ -698,7 +698,7 @@ width:30px;
     line-height: 21px;
   }
   .service-details-widget {
-    display: block;
+    display: flex;
     padding: 24px;
   }
   .service-details-benefits-content h4 {
