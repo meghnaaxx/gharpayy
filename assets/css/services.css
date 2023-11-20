@@ -475,14 +475,11 @@ width:30px;
   object-fit: contain;
   margin-right: 16px;
 }
-.service-details-benefits-images {
-  display: flex;
-  gap: 18px;
-  justify-content: right;
-}
+
 .service-details-benefits-images img {
-  width: 190px;
-  height: 190px;
+  width: 180px;
+  height: 180px;
+  margin: 10px;
   object-fit: cover;
   border-radius: 10px;
 }
