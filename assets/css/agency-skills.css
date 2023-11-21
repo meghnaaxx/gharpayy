@@ -72,13 +72,14 @@
 
 .single-agency-skills-progress.progress-2 .progress-container,
 .single-agency-skills-progress.progress-2 .progress {
-  background-color: #acc8b8;
+  background-color: #a8dcbf;
 }
 .single-agency-skills-progress.progress-2 .progress {
-  background-color: var(--primary-color);
+  background-color: #68c18f;
 }
+
 .single-agency-skills-progress.progress-2 .percentage::after {
-  border-top: 10px solid var(--primary-color);
+  border-top: 10px solid #68c18f;
 }
 .single-agency-skills-progress.progress-3 .progress-container,
 .single-agency-skills-progress.progress-3 .progress {
