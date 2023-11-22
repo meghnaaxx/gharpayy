@@ -4,7 +4,7 @@
 .header-area {
   padding: 20px 0px;
   border-bottom: 1px solid #ffffff30;
-  background: white;
+
 }
 .header-area.is-sticky {
   position: fixed;
