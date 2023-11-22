@@ -2,7 +2,7 @@
 	Contact Us Area
 ==============================================================================================*/
 .contact-area {
-  background: var(--primary-color);
+  background: rgb(232, 229, 229);
   padding: 120px 0px;
   position: relative;
   z-index: 2;
