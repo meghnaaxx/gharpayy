@@ -43,8 +43,8 @@
 .hero-video-image::before {
   position: absolute;
   content: "";
-  width: 244px;
-  height: 200px;
+  width: 200px;
+  height: 120px;
   background-image: url("../images/hero-banner/arrow-shape-1.svg");
   background-size: cover;
   background-position: center;
