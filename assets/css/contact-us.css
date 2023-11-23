@@ -113,7 +113,7 @@ background: linear-gradient(0deg, rgba(0,172,238,1) 0%, rgba(2,126,251,1) 100%);
   line-height: 148%;
 }
 .contact-info-widget {
-  background: var(--title-color);
+  background: linear-gradient(96deg,#004EC1 2.32%,#1E86FF 100.9%);
   box-shadow: 0px 0px 30px 0px rgba(243, 113, 33, 0.25);
   border-radius: 10px;
   display: flex;
