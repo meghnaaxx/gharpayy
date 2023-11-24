@@ -29,19 +29,12 @@
   line-height: normal;
 }
 
-.hero-content h5{
- text-align: center;
-color:white;
-letter-spacing: -2px;
-line-height: normal;
-font-size:28px;
-}
-
 .hero-content h4{
   text-align: center;
   color: var(--white-color);
   letter-spacing: -2px;
   line-height: normal;
+  font-size: 28px;
 }
 
 .hero-video-image {
