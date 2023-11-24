@@ -284,7 +284,7 @@
       smartSpeed: 1000,
       merge: true,
       nav: false,
-      dots: true,
+      dots: false,
       responsive: {
         300: {
           items: 1,
