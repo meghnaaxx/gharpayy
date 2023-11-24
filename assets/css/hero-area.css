@@ -40,6 +40,7 @@
   margin-top: 74px;
   position: relative;
 }
+
 .hero-video-image::before {
   position: absolute;
   content: "";
