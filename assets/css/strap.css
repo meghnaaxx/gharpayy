@@ -31,7 +31,7 @@
 }
 
 .single-strap.strap-2 {
-  background: #d1e9da;
+  background: #f5fc24;
   transform: rotate(-6.589deg);
 }
 .single-strap-content {
@@ -166,13 +166,13 @@
   .single-strap.strap-1 {
     transform: none;
     z-index: 222;
-    position: ;
+    
   }
   .single-strap.strap-2 {
     transform: none;
     height: 60px;
     z-index: 2222;
-    position: ;
+  
   }
   .single-strap {
     position: initial;
