@@ -24,7 +24,14 @@
 .hero-content h1 {
   text-align: center;
   color: var(--white-color);
-  font-size: 82px;
+  font-size: 45px;
+  letter-spacing: -2px;
+  line-height: normal;
+}
+
+.hero-content h2 {
+  text-align: center;
+  color: var(--white-color);
   letter-spacing: -2px;
   line-height: normal;
 }
