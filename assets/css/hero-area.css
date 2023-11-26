@@ -24,7 +24,7 @@
 .hero-content h1 {
   text-align: center;
   color: var(--white-color);
-  font-size: 45px;
+  font-size: 50px;
   letter-spacing: -2px;
   line-height: normal;
 }
@@ -63,7 +63,7 @@
   color: var(--white-color);
   letter-spacing: -2px;
   line-height: normal;
-  font-size: 28px;
+  font-size: 20px;
 }
 
 .hero-video-image {

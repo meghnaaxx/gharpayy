@@ -9,7 +9,7 @@
   margin-top: 40px;
 }
 .company-fact-content h1 {
-background-color:#5D58e8;  
+background:linear-gradient(96deg,#004EC1 2.32%,#1E86FF 100.9%);
  -webkit-text-fill-color: transparent; 
  -webkit-background-clip: text;
   line-height: 140%;
