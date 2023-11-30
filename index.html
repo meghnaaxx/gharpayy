@@ -927,8 +927,20 @@
       </div>
       <div class="contact-info-widget-content">
       <h5>Need Perfect Stay in Bangalore?</h5>
-        <h5> WhatsApp us Now!</h5>
-        <h5><a href="+91 8307396042">@ + 91 83073 96042</a></h5>
+        <button class="custom-btn btn-5" onclick="openWhatsApp()"><b style=" font-size: 30px;">WhatsApp Us!</b></button>
+
+  <script>
+    function openWhatsApp() {
+      // Replace '1234567890' with the desired phone number, including the country code.
+      const phoneNumber = '91 83073 96042';
+      
+      // Create the WhatsApp link
+      const whatsappLink = `whatsapp://send?phone=${phoneNumber}`;
+
+      // Open the link in a new window or tab
+      window.open(whatsappLink);
+    }
+  </script>
       </div>
     </div>
   </div>
