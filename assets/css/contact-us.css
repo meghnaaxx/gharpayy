@@ -113,7 +113,7 @@ background: linear-gradient(0deg, rgba(0,172,238,1) 0%, rgba(2,126,251,1) 100%);
   line-height: 148%;
 }
 .contact-info-widget {
-  background: linear-gradient(96deg,#004EC1 2.32%,#1E86FF 100.9%);
+  background: #0943a0;
   box-shadow: 0px 0px 30px 0px rgba(243, 113, 33, 0.25);
   border-radius: 10px;
   display: flex;
@@ -156,13 +156,13 @@ background: linear-gradient(0deg, rgba(0,172,238,1) 0%, rgba(2,126,251,1) 100%);
 
 .btn-5 {
   font-size:medium;
-  width: 260px;
+  width: 220px;
   height: 70px;
   line-height: 42px;
   padding: 0;
   border: none;
-  background: 	#25d366;
-background: linear-gradient(96deg,#06a641 2.32%, #1ed15f  100.9%);
+  background:#25d366;
+background: #ffc107;
 }
 .btn-5:hover {
   color: white;
@@ -496,7 +496,6 @@ background: linear-gradient(96deg,#06a641 2.32%, #1ed15f  100.9%);
     margin-bottom: 10px;
   }
   .contact-info-widget {
-    text-align: center;
     display: block;
   }
   .contact-info-widget-icon i {
