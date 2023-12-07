@@ -155,6 +155,7 @@
   display: none;
 }
 .owl-carousel .owl-item {
+  background-color: linear-gradient(96deg,#004EC1 2.32%,#1E86FF 100.9%);
   position: relative;
   min-height: 1px;
   float: left;
