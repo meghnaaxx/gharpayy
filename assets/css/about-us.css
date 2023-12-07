@@ -396,6 +396,7 @@
     height: 30px;
   }
   .about-client-widget {
+    width: auto;
     height: 100px;
     top: 12px;
   }
